@@ -11,3 +11,6 @@
 - **Hector Cordova**
 [GitHub](https://github.com/Hector2024) |
 [LinkedIn](https://www.linkedin.com/in/hector-a-cordova/)
+- **Christen ReinHart**
+[GitHub](https://github.com/christen-reinhart) |
+[LinkedIn](https://www.linkedin.com/in/christen-reinhart/)
