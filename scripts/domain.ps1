@@ -1,6 +1,6 @@
 # Define parameters
-$DomainName = "yourdomain.local"        # Replace with your desired domain name
-$SafeModeAdministratorPassword = "YourSecurePassword"  # Replace with a strong password
+$DomainName = "quantum.com"        # Replace with your desired domain name
+$SafeModeAdministratorPassword = "Admin1"  # Replace with a strong password
 $ForestMode = "7"       # Specify the forest mode value for Windows Server 2016 (See Note below)
 
 # Install AD DS if not already installed
